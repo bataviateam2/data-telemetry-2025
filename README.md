@@ -37,5 +37,5 @@ data-telemetry-2025
 **Track Data Examples:**
 - JIEC_coordinates.csv
 - LUSAIL_coordinates.csv
-= SAHABAT_coordinates.csv
-= final-track-SAHABAT.csv
+- SAHABAT_coordinates.csv
+- final-track-SAHABAT.csv
