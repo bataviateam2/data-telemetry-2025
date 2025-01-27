@@ -32,16 +32,22 @@ The dataset is built using data collected from multiple sensors installed on the
 
 ## Repository Structure
 data-telemetry-2025/
-├── data/                    # Contains the raw and processed datasets
-│   ├── raw/                 # Raw data collected from sensors
-│   └── processed/           # Cleaned and processed data
-├── scripts/                 # Scripts for data processing and analysis
-│   ├── data_cleaning.py     # Script for cleaning the raw data
-│   └── data_analysis.py     # Script for analyzing the processed data
-├── docs/                    # Documentation and reports
-│   └── project_report.pdf   # Detailed project report
-├── README.md                # This file
-└── requirements.txt         # List of Python dependencies
+
+data/
+
+   raw/: Raw data collected from sensors.
+
+   processed/: Cleaned and processed data.
+
+scripts/
+
+   data_cleaning.py: Script for cleaning the raw data.
+
+   data_analysis.py: Script for analyzing the processed data.
+
+README.md: The main documentation file (this file).
+
+   requirements.txt: List of Python dependencies.
 
 
 ## Installation
