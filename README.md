@@ -1,4 +1,4 @@
-# Data Telemetry for Shell Eco-marathon Asia Pacific & Middle East 2025
+# Dataset Build Code for Shell Eco-marathon Asia Pacific & Middle East 2025
 
 This repository contains the dataset and code used for the Data Telemetry Awards submission for the Shell Eco-marathon Asia Pacific & Middle East 2025. The project focuses on building a robust dataset for telemetry data analysis, which is crucial for optimizing vehicle performance and energy efficiency.
 
