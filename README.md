@@ -7,11 +7,6 @@ This repository contains the dataset and code used for the Data Telemetry Awards
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
 - [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
