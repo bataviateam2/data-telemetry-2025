@@ -32,24 +32,15 @@ The dataset is built using data collected from multiple sensors installed on the
 
 ## Repository Structure
 data-telemetry-2025
-**data**
-- raw: Raw data collected from sensors.
-- processed: Cleaned and processed data.
-**scripts**
-- data_cleaning.py: Script for cleaning the raw data.
-- data_analysis.py: Script for analyzing the processed data.
-**README.md**: The main documentation file (this file).
-- requirements.txt: List of Python dependencies.
 
-## Installation
+**Code Notebook:**
+- Building-Dataset.ipynb
 
-To set up the project locally, follow these steps:
+**Google Earth File:**
+- DataTelemetry-Actual.kml
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/bataviateamunj/data-telemetry-2025.git
-   cd data-telemetry-2025
-
-1. Install Required Dependencies:
-
-pip install -r requirements.txt
+**Track Data Examples:**
+- JIEC_coordinates.csv
+- LUSAIL_coordinates.csv
+= SAHABAT_coordinates.csv
+= final-track-SAHABAT.csv
